@@ -1,1 +1,1 @@
-# dispersion_picking
+# Dispersion picking Dash app
